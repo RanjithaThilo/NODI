@@ -1,0 +1,773 @@
+{ 
+
+  "0": [
+        {
+            "char": "€",
+           "value": "&euro"
+        },
+        {
+           "char": "–",
+          "value": "&ndash"
+        },
+        {
+           "char": "— ",
+           "value":"&mdash"
+        },
+         {
+           "char": "¡",
+           "value":"&iexcl"
+        },
+         {
+           "char": "¢",
+           "value":"&cent"
+        },
+         {
+           "char": "£",
+           "value":"&pound"
+        },
+         {
+           "char": "¤",
+           "value":"&curren"
+        },
+         {
+           "char": "¥",
+           "value":"&yen"
+        },
+         {
+           "char": "¦",
+           "value":"&brvbar"
+        },
+         {
+           "char": " §",
+           "value":"&sect"
+        },
+         {
+           "char": "¨",
+           "value":"&uml"
+        },
+         {
+           "char": "©",
+           "value":"&copy"
+        },
+         {
+           "char": "ª",
+           "value":"&ordf"
+        },
+         {
+           "char": " «",
+           "value":"&laquo"
+        },
+         {
+           "char": "¬",
+           "value":"&not"
+        },
+         {
+           "char": "®",
+           "value":"&reg"
+        },
+         {
+           "char": "-",
+           "value":"Minus"
+        }
+        
+      ],
+  "1":[
+
+    {
+           "char": "¯",
+           "value":"&macr"
+        },
+         {
+           "char": "°",
+           "value":"&deg"
+        },
+         {
+           "char": "²",
+           "value":"&sup2"
+        },
+         {
+           "char": "³",
+           "value":"&sup3"
+        },
+         {
+           "char": "´",
+           "value":"&acute"
+        },
+         {
+           "char": "µ",
+           "value":"&micro"
+        },
+         {
+           "char": "¶",
+           "value":"&para"
+        },
+         {
+           "char": "·",
+           "value":"&middot"
+        },
+         {
+           "char": "¸",
+           "value":"&cedil"
+        },
+         {
+           "char": "¹",
+           "value":"&sup1"
+        },
+         
+         {
+           "char": "º",
+           "value":"&ordm"
+        },
+         {
+           "char": "»",
+           "value":"&raquo"
+        },
+         {
+           "char": "¼",
+           "value":"&frac14"
+        },
+         {
+           "char": "½",
+           "value":"&frac12 "
+        },
+         {
+           "char": "¾",
+           "value":" &frac34"
+        },
+        
+         {
+           "char": "¿",
+           "value":"&iquest "
+        },{
+          "char": " *",
+          "value":"TIMES"
+      }
+        
+      ],
+  "2": [
+
+    {
+           "char": "À",
+           "value":" &Agrave"
+        },
+         {
+           "char": "Á",
+           "value":"&Aacute "
+        },
+         {
+           "char": "Â",
+           "value":" &Acirc"
+        },
+         {
+           "char": "Ã",
+           "value":"&Atilde "
+        },
+         {
+           "char": "Ä",
+           "value":" &Auml"
+        },
+         {
+           "char": "Å",
+           "value":"&Aring "
+        },
+         {
+           "char": "Æ",
+           "value":"&AElig "
+        },
+         {
+           "char": "Ç",
+           "value":"Ccedil "
+        },
+          {
+           "char": "È",
+           "value":" &Egrave"
+        },
+          {
+           "char": "É",
+           "value":"&Eacute "
+        },
+          {
+           "char": "Ê",
+           "value":"&Ecirc "
+        },
+          {
+           "char": "Ë",
+           "value":"&Euml "
+        },
+          {
+           "char": "Ì",
+           "value":" &Igrave"
+        },
+          {
+           "char": "Í ",
+           "value":"&Iacute "
+        },
+          {
+           "char": "Î",
+           "value":"&Icirc "
+        },
+          {
+           "char": "Ï",
+           "value":"&Iuml "
+        },
+        {
+          "char": "<=",
+          "value":"LESS THAN EQUAL TO"
+      }
+      ],
+  "3":[
+
+    {
+           "char": "Ð",
+           "value":"&ETH "
+        },
+         {
+           "char": "Ñ",
+           "value":"&Ntilde "
+        },
+         {
+           "char": "Ò",
+           "value":"&Ograve "
+        },
+         {
+           "char": "Ó",
+           "value":"&Oacute "
+        },
+         {
+           "char": "Ô",
+           "value":"&Ocirc "
+        },
+         {
+           "char": "Õ",
+           "value":"&Otilde "
+        },
+         {
+           "char": "Ö",
+           "value":"&Ouml "
+        },
+         {
+           "char": "×",
+           "value":"&times "
+        },
+         {
+           "char": "Ø",
+           "value":"&Oslash "
+        },
+         {
+           "char": "Ù",
+           "value":" &Ugrave"
+        },
+         {
+           "char": "Ú",
+           "value":" &Uacute"
+        },
+         {
+           "char": "Û",
+           "value":"&Ucirc "
+        },
+         {
+           "char": "Ü",
+           "value":"&Uuml "
+        },
+         {
+           "char": "Ý",
+           "value":"&Yacute "
+        },
+         {
+           "char": "Þ",
+           "value":"&THORN "
+        },
+         {
+           "char": "ß",
+           "value":"&szlig "
+        },
+    {
+          "char": ">=",
+          "value":"GREATER THAN EQUAL TO"
+      }
+  ],
+  "4":[
+
+    {
+           "char": "à",
+           "value":" &agrave"
+        },
+         {
+           "char": "á",
+           "value":" &aacute"
+        },
+         {
+           "char": "â",
+           "value":" &acirc"
+        },
+         {
+           "char": "ã",
+           "value":"&atilde "
+        },
+         {
+           "char": "ä",
+           "value":"&auml "
+        },
+         {
+           "char": "å",
+           "value":"&aring "
+        },
+         {
+           "char": "æ",
+           "value":"&aelig "
+        },
+         {
+           "char": "ç",
+           "value":" &ccedil"
+        },
+         {
+           "char": "è",
+           "value":"&egrave "
+        },
+         {
+           "char": "é",
+           "value":"&eacute "
+        },
+         {
+           "char": "ê",
+           "value":" &ecirc"
+        },
+         {
+           "char": "ë",
+           "value":"&euml "
+        },
+         {
+           "char": "ì",
+           "value":"&igrave "
+        },
+         {
+           "char": "í",
+           "value":"&iacute "
+        },
+         {
+           "char": "î",
+           "value":" &icirc"
+        },
+         {
+           "char": "ï",
+           "value":" &iuml"
+        },
+    {
+           "char": "ð",
+           "value":"&eth "
+        }
+  ],
+  "5":[
+  {
+           "char": "ñ",
+           "value":" &ntilde"
+        },
+         {
+           "char": "ò",
+           "value":"&ograve "
+        },
+         {
+           "char": "ó",
+           "value":" &oacute"
+        },
+         {
+           "char": "ô",
+           "value":" &ocirc"
+        },
+         {
+           "char": "õ",
+           "value":"&otilde "
+        },
+         {
+           "char": "ö",
+           "value":" &ouml"
+        },
+         {
+           "char": "÷",
+           "value":"&divide "
+        },
+         {
+           "char": "ø",
+           "value":"&oslash "
+        },
+         {
+           "char": "ù",
+           "value":"&ugrave "
+        },
+         {
+           "char": "ú",
+           "value":"&uacute "
+        },
+         {
+           "char": "û",
+           "value":"&ucirc "
+        },
+         {
+           "char": "ü",
+           "value":"&uuml "
+        },
+         {
+           "char": "ý",
+           "value":"&yacute "
+        },
+         {
+           "char": "þ",
+           "value":"&thorn "
+        },
+         {
+           "char": "ÿ",
+           "value":"&yuml "
+        },
+    {
+           "char": "Œ",
+           "value":"&OElig "
+        },
+         {
+           "char": "œ",
+           "value":"&oelig "
+        }
+
+  ],
+  "6":[
+
+  
+         {
+           "char": "Ŵ",
+           "value":"&#372 "
+        },
+         {
+           "char": "Ŷ",
+           "value":"&#374 "
+        },
+         {
+           "char": "ŵ",
+           "value":"&#373 "
+        },
+         {
+           "char": "ŷ",
+           "value":"&#375 "
+        },
+         {
+           "char": "‚",
+           "value":"&sbquo "
+        },
+         {
+           "char": "‛",
+           "value":"&#8219 "
+        },
+         {
+           "char": "„",
+           "value":" &bdquo"
+        },
+         {
+           "char": "…",
+           "value":" &hellip"
+        },
+         {
+           "char": "™",
+           "value":"&trade "
+        },
+         {
+           "char": "►",
+           "value":"&#9658 "
+        },
+         {
+           "char": "•",
+           "value":"&bull "
+        },
+         {
+           "char": "♦",
+           "value":"&diams "
+        },
+         {
+           "char": "≈",
+           "value":" &asymp"
+        },
+         {
+           "char": "ℏ",
+           "value":"PLANCK CONSTANT OVER TWO PI"
+        },
+    {
+           "char": "ℯ",
+           "value":"SCRIPT SMALL E "
+        },
+         {
+           "char": "Α",
+           "value":"GREEK CAPITAL LETTER ALPHA"
+        },
+         {
+           "char": "Β",
+           "value":"GREEK CAPITAL LETTER BETA "
+        }
+
+  ],
+  "7":[      
+         {
+           "char": "Γ",
+           "value":"GREEK CAPITAL LETTER GAMMA "
+        },
+         {
+           "char": "Δ",
+           "value":"GREEK CAPITAL LETTER DELTA"
+        },
+         {
+           "char": "Ε",
+           "value":"GREEK CAPITAL LETTER EPSILON "
+        },
+         {
+           "char": "Ζ",
+           "value":"GREEK CAPITAL LETTER ZETA "
+        },
+         {
+           "char": "Η",
+           "value":"GREEK CAPITAL LETTER ETA "
+        },
+         {
+           "char": "Θ",
+           "value":" GREEK CAPITAL LETTER THETA"
+        },
+         {
+           "char": "Ι",
+           "value":"GREEK CAPITAL LETTER IOTA "
+        },
+         {
+           "char": " Κ",
+           "value":"GREEK CAPITAL LETTER KAPPA "
+        },
+         {
+           "char": "Λ",
+           "value":"GREEK CAPITAL LETTER LAM(B)DA"
+        },
+         {
+           "char": "Μ",
+           "value":"GREEK CAPITAL LETTER MU"
+        },
+         {
+           "char": "Ν ",
+           "value":" GREEK CAPITAL LETTER NU "
+        },
+         {
+           "char": "Ξ",
+           "value":"GREEK CAPITAL LETTER XI "
+        },
+         {
+           "char": "Ο",
+           "value":"GREEK CAPITAL LETTER OMICRON "
+        },
+    {
+           "char": "Π",
+           "value":"GREEK CAPITAL LETTER PI"
+        },
+         {
+           "char": "Ρ",
+           "value":"GREEK CAPITAL LETTER RHO "
+        },
+         {
+           "char": "Σ",
+           "value":"GREEK CAPITAL LETTER SIGMA "
+        },
+         {
+           "char": "Τ",
+           "value":"GREEK CAPITAL LETTER TAU "
+        },{
+           "char": "Υ",
+           "value":" GREEK CAPITAL LETTER UPSILON "
+        },
+         {
+           "char": "Φ",
+           "value":"GREEK CAPITAL LETTER PHI "
+        },
+         {
+           "char": "Χ",
+           "value":"GREEK CAPITAL LETTER CHI "
+        },
+         {
+           "char": "Ψ",
+           "value":"GREEK CAPITAL LETTER PSI"
+        }
+
+  ],
+  "8":[
+  {
+           "char": "Ω",
+           "value":"GREEK CAPITAL LETTER OMEGA"
+        },
+         {
+           "char": "α",
+           "value":"GREEK SMALL LETTER ALPHA "
+        },
+         {
+           "char": "β",
+           "value":"GREEK SMALL LETTER BETA "
+        },
+         {
+           "char": "γ",
+           "value":"GREEK SMALL LETTER GAMMA "
+        },
+         {
+           "char": "δ",
+           "value":"GREEK SMALL LETTER DELTA"
+        },
+         {
+           "char": "ε",
+           "value":"GREEK SMALL LETTER EPSILON "
+        },
+         {
+           "char": "ζ",
+           "value":"GREEK SMALL LETTER ZETA"
+        },
+         {
+           "char": "η",
+           "value":"GREEK SMALL LETTER ETA "
+        },
+    {
+           "char": "θ",
+           "value":"GREEK SMALL LETTER THETA"
+        },
+         {
+           "char": "ι",
+           "value":"GREEK SMALL LETTER IOTA"
+        },
+         {
+           "char": "κ",
+           "value":"GREEK SMALL LETTER KAPPA "
+        },
+         {
+           "char": "λ",
+           "value":"GREEK SMALL LETTER LAM(B)DA "
+        },
+         {
+           "char": "μ",
+           "value":"GREEK SMALL LETTER MU "
+        },
+    {
+           "char": "ν",
+           "value":"GREEK SMALL LETTER NU"
+        },
+         {
+           "char": "ξ",
+           "value":"GREEK SMALL LETTER XI "
+        },
+         {
+           "char": "ο",
+           "value":"GREEK SMALL LETTER OMICRON "
+        },
+         {
+           "char": "π",
+           "value":"GREEK SMALL LETTER PI "
+        }
+         
+
+  ],
+  "9":[
+
+    
+         
+         {
+           "char": "ρ",
+           "value":"GREEK SMALL LETTER RHO"
+        },
+         {
+           "char": "ς",
+           "value":"GREEK SMALL LETTER FINAL SIGMA"
+        },
+         {
+           "char": "σ",
+           "value":"GREEK SMALL LETTER SIGMA "
+        },
+         {
+           "char": "τ",
+           "value":"GREEK SMALL LETTER TAU"
+        },
+         {
+           "char": "υ",
+           "value":" GREEK SMALL LETTER UPSILON"
+        },
+         {
+           "char": "φ",
+           "value":"GREEK SMALL LETTER PHI "
+        },
+         {
+           "char": "χ",
+           "value":"GREEK SMALL LETTER CHI "
+        },
+    {
+           "char": "ψ",
+           "value":"GREEK SMALL LETTER PSI "
+        },
+         {
+           "char": "ω",
+           "value":"GREEK SMALL LETTER OMEGA "
+        },
+         {
+           "char": "←",
+           "value":"LEFTWARDS ARROW"
+        },
+         {
+           "char": "↑",
+           "value":"UPWARDS ARROW"
+        },
+         {
+           "char": "↓ ",
+           "value":"DOWNWARDS ARROW"
+        },
+         {
+           "char": "→",
+           "value":" &rarr"
+        },
+         {
+           "char": "⇒",
+           "value":"&rArr "
+        },
+         {
+           "char": "⇔",
+           "value":"&hArr "
+        },
+         {
+           "char": "↔",
+           "value":"LEFT RIGHT ARROW "
+          },
+    {
+           "char": "⇌",
+           "value":" RIGHTWARDS HARPOON OVER LEFTWARDS HARPOON"
+          }
+  ],
+  "10":[
+    {
+           "char": "∫",
+           "value":"INTEGRAL "
+          },
+          {
+           "char": "∼",
+           "value":"TILDE OPERATOR "
+         },
+          {
+           "char": "∞",
+           "value":"INFINITY"
+           },
+          {
+           "char": "±",
+           "value":"PLUS-MINUS SIGN"
+          },
+          {
+           "char": "√",
+           "value":"SQUARE ROOT"
+          },
+    {
+           "char": "′",
+           "value":"Prime"
+          },
+    {
+           "char": "″",
+           "value":"Double Prime"
+          },
+    {
+           "char": "‹",
+           "value":"LANGLE"
+          },
+    {
+           "char": "›",
+           "value":"RANGLE"
+          }
+  ]
+}

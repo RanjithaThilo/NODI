@@ -1,0 +1,22 @@
+{
+	"port" 	   	: 3001,
+	"filePath" 	: "d:/restapi/ce_tool/",
+	"imagePath" : "images",
+	"folderPath" : "ce_tool",
+	"imageServerPath" : "http://10.110.24.213",
+	"arsServer"	: "10.110.3.250",
+	"arsServerPort" : 8088,
+	"arsPath" : "/refconv",
+	"refmlServer"	: "10.110.3.250",
+	"refmlServerPort" : 8080,
+	"refmlPath" : "/RefbusWeb/rest/refbus/springer?journame=Basic",
+	"refRecal" : "http://10.110.24.213:3001/reference1/",
+	"xsltServer"	: "10.110.1.56",
+	"xsltServerPort" : 8080,
+	"xsltPath" : "/XsltOperation/rest/xslt/springer?op=Refsort",
+	"cliserver": "10.110.25.103",
+	"cliserverport" :"8086",
+	"cliPath": "responseformat=json&style=springer-basic-author-date",
+	"spellServer" : "http://10.110.24.201:8081/v2/check"
+}
+
