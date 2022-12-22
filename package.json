@@ -41,7 +41,7 @@
     "json-to-json": "^1.0.2",
     "jsonpath-plus": "^0.20.1",
     "jsontoxml": "^1.0.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "libxmljs": "^0.19.5",
     "node-expat": "^2.3.18",
     "node-gyp": "^3.8.0",
